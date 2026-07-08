@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Model files
+*.safetensors
+*.gguf
+*.ckpt
+*.pt
+*.pth
+
+# Hugging Face cache
+.cache/
+
+# ComfyUI runtime
+output/
+outputs/
+temp/
+input/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
